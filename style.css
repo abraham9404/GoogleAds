@@ -88,6 +88,7 @@ header {
 .row1 .column1 img {
   display: none;
 }
+
 .row {
   display: flex;
   flex-wrap: wrap;
